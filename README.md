@@ -8,3 +8,6 @@ Docking@Home aims to reduce the cost of drug development (estimated at ~ $USD 50
 
 ## Background
 Docking@Home was a project that utilised the [BOINC](https://en.wikipedia.org/wiki/Berkeley_Open_Infrastructure_for_Network_Computing) software platform, and modelled protein-ligand interactions using the [CHARMM](https://en.wikipedia.org/wiki/CHARMM) software program, until it's official retirement in 2014. The program allowed an extensive search of a finite number of protein-ligand structures, called [conformations](https://en.wikipedia.org/wiki/Protein_structure). Such conformations were predicted using ligand-based hierarchical clustering. 
+
+## References
+[1] The complexity and cost of vaccine manufacturing – An overview: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5518734/  
